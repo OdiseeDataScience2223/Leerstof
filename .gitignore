@@ -1,11 +1,11 @@
-#custom
-*.csv
-*.txt
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+*.jpg
+*.csv
+*.zip
 
 # C extensions
 *.so
